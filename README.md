@@ -8,13 +8,12 @@ Most of the stuff on here is storage space for my side projects, but occasionall
 When I'm not coding, you'll probably catch me reading nonfiction, taking photos with my beloved DSLR or practicing speedcubing
 
 - 🔭 I’m currently working on:
-  - a Raycaster game in the style of old classics like Wolfenstein 3D
+  - [Lishex](https://github.com/MKJM2/lishex): an UCI-compatible chess engine written in C++
   - a high-performance visualization of the Mandelbrot set in C++
-- 🌱 I’m currently learning about AI and AI safety
-- 📫 How to reach me: [mkurek@college.harvard.edu](mailto:mkurek@college.harvard.edu)
-- 😄 Pronouns: he/him/his
+  - a Raycaster game in the style of old classics like Wolfenstein 3D & Doom
+- 🌱 I’m currently learning about AI/ML and Systems at Harvard University
+- 📫 How to reach me: mkurek [at] college [dot] harvard [dot] edu
 - ⚡ Fun fact: I can solve the Rubik's cube in <20 seconds
-
 
 ## Character Stats
 
