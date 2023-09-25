@@ -20,9 +20,6 @@ When I'm not coding, you'll probably catch me reading nonfiction, taking photos 
 <a href="https://github.com/MKJM2/MKJM2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKJM2&title_color=ffffff&text_color=c9cacc&icon_color=ebc6b9&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/MKJM2/MKJM2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MKJM2&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=10d6ec&bg_color=1d1f21" alt="Michal's GitHub Stats" />
-</a>
 
 ## 🔧 Technologies & Tools
 
